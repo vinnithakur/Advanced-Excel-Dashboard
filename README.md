@@ -1,6 +1,6 @@
 # Advanced-Excel-Dashboard
 
-###Project Overview
+### Project Overview
 
 This HR Analytics Dashboard, built in Microsoft Excel, provides a comprehensive analysis of key HR metrics. It enables HR professionals and decision-makers to gain actionable insights into workforce trends, employee performance, attrition rates, and more. The dashboard leverages data visualization techniques to present complex HR data in an easy-to-understand format.
 
