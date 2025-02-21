@@ -4,7 +4,7 @@
 
 This HR Analytics Dashboard, built in Microsoft Excel, provides a comprehensive analysis of key HR metrics. It enables HR professionals and decision-makers to gain actionable insights into workforce trends, employee performance, attrition rates, and more. The dashboard leverages data visualization techniques to present complex HR data in an easy-to-understand format.
 
-###Features
+### Features
 
 Employee Demographics Analysis: Breakdown of employees based on department, age, gender, and tenure.
 
@@ -18,7 +18,7 @@ Leave and Absenteeism Tracking: Identification of leave patterns and their impac
 
 Interactive Dashboards: User-friendly interface with filters and slicers for dynamic data exploration.
 
-###Tools Used
+### Tools Used
 
 Microsoft Excel
 
@@ -30,7 +30,7 @@ Conditional Formatting
 
 Data Validation
 
-###How to Use
+### How to Use
 
 Download the Excel file from this repository.
 
@@ -40,7 +40,7 @@ Use the interactive filters and slicers to explore different HR metrics.
 
 Analyze insights to support data-driven HR decision-making.
 
-###Future Enhancements
+### Future Enhancements
 
 Integration with Power BI for advanced visualizations.
 
